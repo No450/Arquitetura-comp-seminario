@@ -87,14 +87,12 @@ O objetivo do seminário é apresentar de forma clara e técnica como os process
 - GitHub (organização do projeto)
 - Trello 
 
----
 
 ## 📚 Referências
 - Material didático da disciplina
 - 
 -
 
----
 
 ## 👥 Integrantes
 
@@ -102,20 +100,18 @@ O objetivo do seminário é apresentar de forma clara e técnica como os process
 - Thiago Santos Correa  
 - Israel Nicolas   
 - Lucas Moraes
----
+
 
 ## 🎓 Disciplina
 
 **Arquitetura de Computadores**  
 Professor(a): **Dr.Luis.Rodrigues**
 
----
 
 ## 📅 Data da Apresentação
 
 **16/06/2026**
 
----
 
 ## ✅ Considerações Finais
 
