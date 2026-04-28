@@ -90,8 +90,7 @@ O objetivo do seminário é apresentar de forma clara e técnica como os process
 
 ## 📚 Referências
 - Material didático da disciplina
-- 
--
+- Referência em anexo (na pasta referência)
 
 
 ## 👥 Integrantes
